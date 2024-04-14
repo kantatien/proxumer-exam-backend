@@ -1,0 +1,3 @@
+type Mutation {
+  createRoom(roomName: String!): VoidResponse
+}

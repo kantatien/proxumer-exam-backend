@@ -1,0 +1,8 @@
+type Sender {
+  name: String
+}
+
+input SenderReq {
+  name: String
+}
+
